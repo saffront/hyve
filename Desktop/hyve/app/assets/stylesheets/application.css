@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "less/greyscale";
+@import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet);
